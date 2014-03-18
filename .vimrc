@@ -250,15 +250,16 @@ Bundle 'The-NERD-Commenter'
 Bundle 'L9'
 " non github repos
 "Bundle 'scrooloose/syntastic'
-Bundle 'Tabular'
-Bundle 'vim-stylus'
-Bundle 'Syntastic'
 Bundle 'JavaScript-Indent'
-Bundle 'node.js'
-Bundle 'mattn/emmet-vim'
+Bundle 'L9'
+Bundle 'SrcExpl'
+Bundle 'Syntastic'
+Bundle 'Tabular'
 Bundle 'jlanzarotta/bufexplorer'
-Bundle 'SrcExpl'
-Bundle 'SrcExpl'
+Bundle 'mattn/emmet-vim'
+Bundle 'node.js'
+Bundle 'taglist-plus'
+Bundle 'vim-stylus'
 "Fugitive
 "FuzzyFinder
 filetype plugin indent on     " required!
@@ -266,7 +267,7 @@ filetype plugin indent on     " required!
 " Brief help
 " :BundleList          - list configured bundles
 " :BundleInstall(!)    - install(update) bundles
-" :BundleSearch(!) foo - search(or refresh cache first) for foo
+" :BundleSearch(!) foo - search(or refresh cache first) for foO
 " :BundleClean(!)      - confirm(or auto-approve) removal of unused bundles
 "
 " see :h vundle for more details or wiki for FAQ
