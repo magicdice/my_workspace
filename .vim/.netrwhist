@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/msearch/TEST/build'
+let g:netrw_dirhist_2='/mnt/raid/crawl/tmp/Crawl_Nodes/job.default'
+let g:netrw_dirhist_3='/mnt/raid'
+let g:netrw_dirhist_4='/mnt/raid/crawl'
+let g:netrw_dirhist_5='/mnt/raid/crawl/crawl_host'
+let g:netrw_dirhist_6='/home/msearch/0.Maintain'
